@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PrabhanjanJois
+- 👋 Hi, I’m Prabhanjan Jois
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java | Python | Android | ML  
-- 📫 Connect with on Linkedin--> www.linkedin.com/in/prabhanjan-jois-68384b196
+- 📫 Connect with me on Linkedin--> www.linkedin.com/in/prabhanjan-jois-68384b196
 
 <!---
 PrabhanjanJois/PrabhanjanJois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
